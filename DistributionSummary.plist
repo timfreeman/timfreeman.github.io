@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Unity-iPhone.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>486146C81D5C0020F258BC15EB2CB981323A9BB1</string>
+				<key>dateExpires</key>
+				<string>17/04/2019</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>95EM89639Z.com.unity.arkitscene</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>95EM89639Z</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>95EM89639Z.com.unity.arkitscene</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>arkitscene.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>ae0db1bf-32ce-49d2-8fc4-5a5e227bb0ac</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>95EM89639Z</string>
+				<key>name</key>
+				<string>Avanti CO OOO</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
